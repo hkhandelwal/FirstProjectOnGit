@@ -24,6 +24,8 @@
 }
 
 -(void)awakeFromNib
+
+
 {
     //configure the emitter layer
     smokeEmitter = (CAEmitterLayer*)self.layer; //2
